@@ -1,0 +1,458 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|c:\\users\\asus\\source\\repos\\fadi_portfolio\\fadi_portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|solutionrelative:fadi_portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|c:\\users\\asus\\source\\repos\\fadi_portfolio\\fadi_portfolio\\services\\serviceservices\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|solutionrelative:fadi_portfolio\\services\\serviceservices\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|c:\\users\\asus\\source\\repos\\fadi_portfolio\\fadi_portfolio\\data\\repositories\\servicerepo\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|solutionrelative:fadi_portfolio\\data\\repositories\\servicerepo\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|c:\\users\\asus\\source\\repos\\fadi_portfolio\\fadi_portfolio\\data\\repositories\\servicerepo\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|solutionrelative:fadi_portfolio\\data\\repositories\\servicerepo\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|c:\\users\\asus\\source\\repos\\fadi_portfolio\\fadi_portfolio\\data\\repositories\\base\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|solutionrelative:fadi_portfolio\\data\\repositories\\base\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|c:\\users\\asus\\source\\repos\\fadi_portfolio\\fadi_portfolio\\data\\repositories\\base\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|solutionrelative:fadi_portfolio\\data\\repositories\\base\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|c:\\users\\asus\\source\\repos\\fadi_portfolio\\fadi_portfolio\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|solutionrelative:fadi_portfolio\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|c:\\users\\asus\\source\\repos\\fadi_portfolio\\fadi_portfolio\\services\\serviceservices\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|solutionrelative:fadi_portfolio\\services\\serviceservices\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|c:\\users\\asus\\source\\repos\\fadi_portfolio\\fadi_portfolio\\models\\certificatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|solutionrelative:fadi_portfolio\\models\\certificatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|c:\\users\\asus\\source\\repos\\fadi_portfolio\\fadi_portfolio\\data\\repositories\\protechrepo\\protechrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|solutionrelative:fadi_portfolio\\data\\repositories\\protechrepo\\protechrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|c:\\users\\asus\\source\\repos\\fadi_portfolio\\fadi_portfolio\\data\\repositories\\protechrepo\\iprotechrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|solutionrelative:fadi_portfolio\\data\\repositories\\protechrepo\\iprotechrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|c:\\users\\asus\\source\\repos\\fadi_portfolio\\fadi_portfolio\\data\\repositories\\projectrepo\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|solutionrelative:fadi_portfolio\\data\\repositories\\projectrepo\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|c:\\users\\asus\\source\\repos\\fadi_portfolio\\fadi_portfolio\\data\\repositories\\proimagerepo\\proimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|solutionrelative:fadi_portfolio\\data\\repositories\\proimagerepo\\proimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|c:\\users\\asus\\source\\repos\\fadi_portfolio\\fadi_portfolio\\data\\repositories\\proimagerepo\\iproimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|solutionrelative:fadi_portfolio\\data\\repositories\\proimagerepo\\iproimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|c:\\users\\asus\\source\\repos\\fadi_portfolio\\fadi_portfolio\\data\\repositories\\projectrepo\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|solutionrelative:fadi_portfolio\\data\\repositories\\projectrepo\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|c:\\users\\asus\\source\\repos\\fadi_portfolio\\fadi_portfolio\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|solutionrelative:fadi_portfolio\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|c:\\users\\asus\\source\\repos\\fadi_portfolio\\fadi_portfolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|solutionrelative:fadi_portfolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|c:\\users\\asus\\source\\repos\\fadi_portfolio\\fadi_portfolio\\data\\repositories\\certificaterepo\\certificaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|solutionrelative:fadi_portfolio\\data\\repositories\\certificaterepo\\certificaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|c:\\users\\asus\\source\\repos\\fadi_portfolio\\fadi_portfolio\\data\\repositories\\certificaterepo\\icertificaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|solutionrelative:fadi_portfolio\\data\\repositories\\certificaterepo\\icertificaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|c:\\users\\asus\\source\\repos\\fadi_portfolio\\fadi_portfolio\\mapper\\generalprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|solutionrelative:fadi_portfolio\\mapper\\generalprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|c:\\users\\asus\\source\\repos\\fadi_portfolio\\fadi_portfolio\\entities\\certificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|solutionrelative:fadi_portfolio\\entities\\certificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|c:\\users\\asus\\source\\repos\\fadi_portfolio\\fadi_portfolio\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|solutionrelative:fadi_portfolio\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|c:\\users\\asus\\source\\repos\\fadi_portfolio\\fadi_portfolio\\entities\\proimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|solutionrelative:fadi_portfolio\\entities\\proimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|c:\\users\\asus\\source\\repos\\fadi_portfolio\\fadi_portfolio\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|solutionrelative:fadi_portfolio\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|c:\\users\\asus\\source\\repos\\fadi_portfolio\\fadi_portfolio\\models\\servicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|solutionrelative:fadi_portfolio\\models\\servicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|c:\\users\\asus\\source\\repos\\fadi_portfolio\\fadi_portfolio\\migrations\\20250405223547_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|solutionrelative:fadi_portfolio\\migrations\\20250405223547_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|c:\\users\\asus\\source\\repos\\fadi_portfolio\\fadi_portfolio\\fadi_portfolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23BCF632-507D-4DD3-8288-2CC14EE762EC}|Fadi_Portfolio\\Fadi_Portfolio.csproj|solutionrelative:fadi_portfolio\\fadi_portfolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Services\\ServiceServices\\Service.cs",
+              "RelativeDocumentMoniker": "Fadi_Portfolio\\Services\\ServiceServices\\Service.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Services\\ServiceServices\\Service.cs",
+              "RelativeToolTip": "Fadi_Portfolio\\Services\\ServiceServices\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T17:07:07.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Data\\Repositories\\Base\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Fadi_Portfolio\\Data\\Repositories\\Base\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Data\\Repositories\\Base\\GenericRepository.cs",
+              "RelativeToolTip": "Fadi_Portfolio\\Data\\Repositories\\Base\\GenericRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwDIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:11:40.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Data\\Repositories\\ServiceRepo\\ServiceRepository.cs",
+              "RelativeDocumentMoniker": "Fadi_Portfolio\\Data\\Repositories\\ServiceRepo\\ServiceRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Data\\Repositories\\ServiceRepo\\ServiceRepository.cs",
+              "RelativeToolTip": "Fadi_Portfolio\\Data\\Repositories\\ServiceRepo\\ServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:52:28.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Data\\Repositories\\ServiceRepo\\IServiceRepository.cs",
+              "RelativeDocumentMoniker": "Fadi_Portfolio\\Data\\Repositories\\ServiceRepo\\IServiceRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Data\\Repositories\\ServiceRepo\\IServiceRepository.cs",
+              "RelativeToolTip": "Fadi_Portfolio\\Data\\Repositories\\ServiceRepo\\IServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:52:44.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Data\\Repositories\\Base\\IRepository.cs",
+              "RelativeDocumentMoniker": "Fadi_Portfolio\\Data\\Repositories\\Base\\IRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Data\\Repositories\\Base\\IRepository.cs",
+              "RelativeToolTip": "Fadi_Portfolio\\Data\\Repositories\\Base\\IRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADgvwoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T12:16:14.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Program.cs",
+              "RelativeDocumentMoniker": "Fadi_Portfolio\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Program.cs",
+              "RelativeToolTip": "Fadi_Portfolio\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAC4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:28:56.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "Fadi_Portfolio\\Entities\\Project.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Entities\\Project.cs",
+              "RelativeToolTip": "Fadi_Portfolio\\Entities\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:12:51.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Services\\ServiceServices\\IService.cs",
+              "RelativeDocumentMoniker": "Fadi_Portfolio\\Services\\ServiceServices\\IService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Services\\ServiceServices\\IService.cs",
+              "RelativeToolTip": "Fadi_Portfolio\\Services\\ServiceServices\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T17:07:35.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Data\\Repositories\\ProImageRepo\\ProImageRepository.cs",
+              "RelativeDocumentMoniker": "Fadi_Portfolio\\Data\\Repositories\\ProImageRepo\\ProImageRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Data\\Repositories\\ProImageRepo\\ProImageRepository.cs",
+              "RelativeToolTip": "Fadi_Portfolio\\Data\\Repositories\\ProImageRepo\\ProImageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:54:59.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProTechRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Data\\Repositories\\ProTechRepo\\IProTechRepository.cs",
+              "RelativeDocumentMoniker": "Fadi_Portfolio\\Data\\Repositories\\ProTechRepo\\IProTechRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Data\\Repositories\\ProTechRepo\\IProTechRepository.cs",
+              "RelativeToolTip": "Fadi_Portfolio\\Data\\Repositories\\ProTechRepo\\IProTechRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:59:37.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Data\\Repositories\\ProImageRepo\\IProImageRepository.cs",
+              "RelativeDocumentMoniker": "Fadi_Portfolio\\Data\\Repositories\\ProImageRepo\\IProImageRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Data\\Repositories\\ProImageRepo\\IProImageRepository.cs",
+              "RelativeToolTip": "Fadi_Portfolio\\Data\\Repositories\\ProImageRepo\\IProImageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:55:08.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CertificateModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Models\\CertificateModel.cs",
+              "RelativeDocumentMoniker": "Fadi_Portfolio\\Models\\CertificateModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Models\\CertificateModel.cs",
+              "RelativeToolTip": "Fadi_Portfolio\\Models\\CertificateModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:55:31.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProTechRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Data\\Repositories\\ProTechRepo\\ProTechRepository.cs",
+              "RelativeDocumentMoniker": "Fadi_Portfolio\\Data\\Repositories\\ProTechRepo\\ProTechRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Data\\Repositories\\ProTechRepo\\ProTechRepository.cs",
+              "RelativeToolTip": "Fadi_Portfolio\\Data\\Repositories\\ProTechRepo\\ProTechRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:57:32.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Data\\Repositories\\ProjectRepo\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "Fadi_Portfolio\\Data\\Repositories\\ProjectRepo\\ProjectRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Data\\Repositories\\ProjectRepo\\ProjectRepository.cs",
+              "RelativeToolTip": "Fadi_Portfolio\\Data\\Repositories\\ProjectRepo\\ProjectRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:02:34.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Data\\Repositories\\ProjectRepo\\IProjectRepository.cs",
+              "RelativeDocumentMoniker": "Fadi_Portfolio\\Data\\Repositories\\ProjectRepo\\IProjectRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Data\\Repositories\\ProjectRepo\\IProjectRepository.cs",
+              "RelativeToolTip": "Fadi_Portfolio\\Data\\Repositories\\ProjectRepo\\IProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:02:54.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Fadi_Portfolio\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Fadi_Portfolio\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA3wBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:25:08.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICertificateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Data\\Repositories\\CertificateRepo\\ICertificateRepository.cs",
+              "RelativeDocumentMoniker": "Fadi_Portfolio\\Data\\Repositories\\CertificateRepo\\ICertificateRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Data\\Repositories\\CertificateRepo\\ICertificateRepository.cs",
+              "RelativeToolTip": "Fadi_Portfolio\\Data\\Repositories\\CertificateRepo\\ICertificateRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:46:32.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CertificateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Data\\Repositories\\CertificateRepo\\CertificateRepository.cs",
+              "RelativeDocumentMoniker": "Fadi_Portfolio\\Data\\Repositories\\CertificateRepo\\CertificateRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Data\\Repositories\\CertificateRepo\\CertificateRepository.cs",
+              "RelativeToolTip": "Fadi_Portfolio\\Data\\Repositories\\CertificateRepo\\CertificateRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:42:29.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\appsettings.json",
+              "RelativeDocumentMoniker": "Fadi_Portfolio\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\appsettings.json",
+              "RelativeToolTip": "Fadi_Portfolio\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T22:30:47.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Certificate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Entities\\Certificate.cs",
+              "RelativeDocumentMoniker": "Fadi_Portfolio\\Entities\\Certificate.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Entities\\Certificate.cs",
+              "RelativeToolTip": "Fadi_Portfolio\\Entities\\Certificate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:21:09.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProImage.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Entities\\ProImage.cs",
+              "RelativeDocumentMoniker": "Fadi_Portfolio\\Entities\\ProImage.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Entities\\ProImage.cs",
+              "RelativeToolTip": "Fadi_Portfolio\\Entities\\ProImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:16:44.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Fadi_Portfolio\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Fadi_Portfolio\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:13:21.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Entities\\Service.cs",
+              "RelativeDocumentMoniker": "Fadi_Portfolio\\Entities\\Service.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Entities\\Service.cs",
+              "RelativeToolTip": "Fadi_Portfolio\\Entities\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:23:06.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ServiceModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Models\\ServiceModel.cs",
+              "RelativeDocumentMoniker": "Fadi_Portfolio\\Models\\ServiceModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Models\\ServiceModel.cs",
+              "RelativeToolTip": "Fadi_Portfolio\\Models\\ServiceModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T12:10:33.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GeneralProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Mapper\\GeneralProfile.cs",
+              "RelativeDocumentMoniker": "Fadi_Portfolio\\Mapper\\GeneralProfile.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Mapper\\GeneralProfile.cs",
+              "RelativeToolTip": "Fadi_Portfolio\\Mapper\\GeneralProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:47:52.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250405223547_Init.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Migrations\\20250405223547_Init.cs",
+              "RelativeDocumentMoniker": "Fadi_Portfolio\\Migrations\\20250405223547_Init.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Migrations\\20250405223547_Init.cs",
+              "RelativeToolTip": "Fadi_Portfolio\\Migrations\\20250405223547_Init.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:35:47.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Fadi_Portfolio.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Fadi_Portfolio.csproj",
+              "RelativeDocumentMoniker": "Fadi_Portfolio\\Fadi_Portfolio.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Fadi_Portfolio\\Fadi_Portfolio\\Fadi_Portfolio.csproj",
+              "RelativeToolTip": "Fadi_Portfolio\\Fadi_Portfolio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T22:02:04.948Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

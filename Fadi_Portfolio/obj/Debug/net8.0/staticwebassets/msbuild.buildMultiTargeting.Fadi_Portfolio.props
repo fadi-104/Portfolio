@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Fadi_Portfolio.props" />
+</Project>
